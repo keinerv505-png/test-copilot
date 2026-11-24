@@ -1,0 +1,21 @@
+id,name,category,price,stock
+1,Classic T-Shirt,Clothing,19.99,48
+2,Denim Jacket,Clothing,64.50,16
+3,Running Shoes,Footwear,89.00,21
+4,Leather Wallet,Accessories,34.95,32
+5,Travel Backpack,Bags,72.00,14
+6,Wireless Headphones,Electronics,129.99,18
+7,Insulated Water Bottle,Home,24.00,55
+8,Ceramic Coffee Mug,Home,14.50,41
+9,Classic Sunglasses,Accessories,45.00,27
+10,Desk Lamp,Home,38.75,19
+11,Mechanical Keyboard,Electronics,99.00,12
+12,Crossbody Bag,Bags,49.95,23
+13,Trail Running Shoes,Footwear,104.00,9
+14,Linen Shirt,Clothing,42.00,25
+15,Portable Charger,Electronics,32.99,36
+16,Canvas Tote,Bags,18.00,44
+17,Leather Belt,Accessories,29.50,31
+18,Throw Blanket,Home,55.00,11
+19,Everyday Sneakers,Footwear,68.00,17
+20,Baseball Cap,Clothing,22.00,38
